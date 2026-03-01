@@ -221,9 +221,10 @@ py -m pip install -r requirements.txt
 
 2️⃣ Create `.env` file:
 
+```python
 OPENAI_API_KEY=your_api_key
 OPENAI_MODEL=gpt-4o-mini
-
+```
 
 3️⃣ Start application:
 ```python
