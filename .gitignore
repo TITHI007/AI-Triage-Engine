@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 data/triage.db
 data/audit_log.jsonl
+Learning
