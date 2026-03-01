@@ -217,7 +217,7 @@ This boundary is explicit and enforced by code.
 1️⃣ Install dependencies:
 ```powershell
 py -m pip install -r requirements.txt
-
+```
 
 2️⃣ Create `.env` file:
 
@@ -228,4 +228,4 @@ OPENAI_MODEL=gpt-4o-mini
 3️⃣ Start application:
 ```python
 py -m streamlit run app.py
-
+```
