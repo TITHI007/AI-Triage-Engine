@@ -12,7 +12,6 @@ It deliberately assigns responsibility between:
 - Deterministic safeguards  
 - Human judgment  
 
-That boundary is the core design decision.
 ---
 
 ## 🎯 Objective
